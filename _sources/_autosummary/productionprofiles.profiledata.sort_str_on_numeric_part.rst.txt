@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.profiledata.sort\_str\_on\_numeric\_part
+===========================================================
+
+.. currentmodule:: productionprofiles.profiledata
+
+.. autofunction:: sort_str_on_numeric_part

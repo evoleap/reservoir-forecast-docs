@@ -1,0 +1,36 @@
+..
+  module.rst
+
+productionprofiles.logging
+==========================
+
+.. automodule:: productionprofiles.logging
+
+    
+        
+    
+
+    
+        
+            .. rubric:: Functions
+
+            .. autosummary::
+                :toctree:
+                :nosignatures:
+                :template: autosummary/base.rst
+                
+                    setup_logging
+                    stop_logging
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+    

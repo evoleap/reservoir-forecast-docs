@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.MisMatchError
+===========================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autoexception:: MisMatchError

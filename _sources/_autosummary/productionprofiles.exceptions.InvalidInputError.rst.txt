@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.InvalidInputError
+===============================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autoexception:: InvalidInputError

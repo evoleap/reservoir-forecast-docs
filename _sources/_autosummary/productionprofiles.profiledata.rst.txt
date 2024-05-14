@@ -1,0 +1,46 @@
+..
+  module.rst
+
+productionprofiles.profiledata
+==============================
+
+.. automodule:: productionprofiles.profiledata
+
+    
+        
+    
+
+    
+        
+            .. rubric:: Functions
+
+            .. autosummary::
+                :toctree:
+                :nosignatures:
+                :template: autosummary/base.rst
+                
+                    groupby_unique
+                    load_data
+                    sort_str_on_numeric_part
+        
+    
+
+    
+        
+            .. rubric:: Classes
+
+            .. autosummary::
+                :toctree:
+                :nosignatures:
+                :template: autosummary/class.rst
+                
+                    ProfileFile
+        
+    
+
+    
+        
+    
+
+
+    

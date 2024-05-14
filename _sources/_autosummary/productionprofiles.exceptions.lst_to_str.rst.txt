@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.lst\_to\_str
+==========================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autofunction:: lst_to_str

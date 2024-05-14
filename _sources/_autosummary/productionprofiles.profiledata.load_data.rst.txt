@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.profiledata.load\_data
+=========================================
+
+.. currentmodule:: productionprofiles.profiledata
+
+.. autofunction:: load_data

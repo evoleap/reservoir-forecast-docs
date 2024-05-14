@@ -1,0 +1,39 @@
+﻿..
+  module.rst
+
+productionprofiles
+==================
+
+.. automodule:: productionprofiles
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+    
+        .. rubric:: Modules
+
+        .. autosummary::
+            :toctree:
+            :template: autosummary/module.rst
+            :recursive:
+            
+                productionprofiles.exceptions
+                productionprofiles.logging
+                productionprofiles.names_excel
+                productionprofiles.profiledata
+                productionprofiles.profileprocessor
+    

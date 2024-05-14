@@ -1,0 +1,26 @@
+﻿..
+  class.rst
+
+productionprofiles.profiledata.ProfileFile
+==========================================
+
+.. currentmodule:: productionprofiles.profiledata
+
+.. autoclass:: ProfileFile
+    :members:
+    :show-inheritance:
+    :inherited-members:
+
+    
+        
+            .. rubric:: Methods
+
+            .. autosummary::
+                :nosignatures:
+
+                
+                    ~ProfileFile.__init__
+        
+    
+
+    .. automethod:: __init__

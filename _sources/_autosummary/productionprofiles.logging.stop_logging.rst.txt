@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.logging.stop\_logging
+========================================
+
+.. currentmodule:: productionprofiles.logging
+
+.. autofunction:: stop_logging

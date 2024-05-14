@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.get\_missing\_elems
+=================================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autofunction:: get_missing_elems

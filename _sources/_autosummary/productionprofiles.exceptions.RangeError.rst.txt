@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.RangeError
+========================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autoexception:: RangeError

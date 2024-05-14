@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.logging.setup\_logging
+=========================================
+
+.. currentmodule:: productionprofiles.logging
+
+.. autofunction:: setup_logging

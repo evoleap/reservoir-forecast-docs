@@ -1,0 +1,32 @@
+﻿..
+  class.rst
+
+productionprofiles.profileprocessor.ProcessorGasCondensate
+==========================================================
+
+.. currentmodule:: productionprofiles.profileprocessor
+
+.. autoclass:: ProcessorGasCondensate
+    :members:
+    :show-inheritance:
+    :inherited-members:
+
+    
+        
+            .. rubric:: Methods
+
+            .. autosummary::
+                :nosignatures:
+
+                
+                    ~ProcessorGasCondensate.__init__
+                    ~ProcessorGasCondensate.aggregate
+                    ~ProcessorGasCondensate.calc_phase_ratios
+                    ~ProcessorGasCondensate.calculate
+                    ~ProcessorGasCondensate.resample
+                    ~ProcessorGasCondensate.resample_by_date
+                    ~ProcessorGasCondensate.wrap
+        
+    
+
+    .. automethod:: __init__

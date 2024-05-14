@@ -1,0 +1,32 @@
+﻿..
+  class.rst
+
+productionprofiles.profileprocessor.ProcessorBlackOil
+=====================================================
+
+.. currentmodule:: productionprofiles.profileprocessor
+
+.. autoclass:: ProcessorBlackOil
+    :members:
+    :show-inheritance:
+    :inherited-members:
+
+    
+        
+            .. rubric:: Methods
+
+            .. autosummary::
+                :nosignatures:
+
+                
+                    ~ProcessorBlackOil.__init__
+                    ~ProcessorBlackOil.aggregate
+                    ~ProcessorBlackOil.calc_phase_ratios
+                    ~ProcessorBlackOil.calculate
+                    ~ProcessorBlackOil.resample
+                    ~ProcessorBlackOil.resample_by_date
+                    ~ProcessorBlackOil.wrap
+        
+    
+
+    .. automethod:: __init__

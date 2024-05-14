@@ -1,0 +1,26 @@
+..
+  module.rst
+
+productionprofiles.names\_excel
+===============================
+
+.. automodule:: productionprofiles.names_excel
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+    

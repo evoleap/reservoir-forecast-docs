@@ -1,0 +1,50 @@
+﻿..
+  module.rst
+
+productionprofiles.exceptions
+=============================
+
+.. automodule:: productionprofiles.exceptions
+
+    
+        
+    
+
+    
+        
+            .. rubric:: Functions
+
+            .. autosummary::
+                :toctree:
+                :nosignatures:
+                :template: autosummary/base.rst
+                
+                    check_all_elems_found
+                    check_off_range_vals
+                    get_missing_elems
+                    lst_to_str
+        
+    
+
+    
+        
+    
+
+    
+        
+            .. rubric:: Exceptions
+
+            .. autosummary::
+                :toctree:
+                :nosignatures:
+                :template: autosummary/base.rst
+                
+                    AggregationError
+                    InvalidInputError
+                    MisMatchError
+                    RangeError
+        
+    
+
+
+    

@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.check\_all\_elems\_found
+======================================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autofunction:: check_all_elems_found

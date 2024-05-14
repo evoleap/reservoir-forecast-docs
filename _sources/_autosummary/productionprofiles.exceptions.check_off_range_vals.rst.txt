@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.check\_off\_range\_vals
+=====================================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autofunction:: check_off_range_vals

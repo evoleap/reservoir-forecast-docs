@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.profileprocessor.calc\_col\_width
+====================================================
+
+.. currentmodule:: productionprofiles.profileprocessor
+
+.. autofunction:: calc_col_width

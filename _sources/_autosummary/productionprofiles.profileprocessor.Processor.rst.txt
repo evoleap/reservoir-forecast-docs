@@ -1,0 +1,32 @@
+﻿..
+  class.rst
+
+productionprofiles.profileprocessor.Processor
+=============================================
+
+.. currentmodule:: productionprofiles.profileprocessor
+
+.. autoclass:: Processor
+    :members:
+    :show-inheritance:
+    :inherited-members:
+
+    
+        
+            .. rubric:: Methods
+
+            .. autosummary::
+                :nosignatures:
+
+                
+                    ~Processor.__init__
+                    ~Processor.aggregate
+                    ~Processor.calc_phase_ratios
+                    ~Processor.calculate
+                    ~Processor.resample
+                    ~Processor.resample_by_date
+                    ~Processor.wrap
+        
+    
+
+    .. automethod:: __init__

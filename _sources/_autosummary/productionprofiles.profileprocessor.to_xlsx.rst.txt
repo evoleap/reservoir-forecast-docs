@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.profileprocessor.to\_xlsx
+============================================
+
+.. currentmodule:: productionprofiles.profileprocessor
+
+.. autofunction:: to_xlsx

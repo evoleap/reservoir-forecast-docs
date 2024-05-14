@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.profiledata.groupby\_unique
+==============================================
+
+.. currentmodule:: productionprofiles.profiledata
+
+.. autofunction:: groupby_unique

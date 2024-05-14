@@ -1,0 +1,9 @@
+..
+  base.rst
+
+productionprofiles.exceptions.AggregationError
+==============================================
+
+.. currentmodule:: productionprofiles.exceptions
+
+.. autoexception:: AggregationError
